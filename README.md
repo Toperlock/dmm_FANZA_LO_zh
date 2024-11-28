@@ -1,6 +1,6 @@
 # last origin FANZA版汉化
 
-2024-11-14 [已更新](https://github.com/Toperlock/dmm_FANZA_LO_zh/releases/tag/Prerelease)
+2024-11-28 [已更新](https://github.com/Toperlock/dmm_FANZA_LO_zh/releases/tag/Prerelease)
 
 # 希望不要拿去倒卖谢谢
 
