@@ -1,6 +1,10 @@
 # last origin FANZA版汉化
 
-2024-11-28 [已更新](https://github.com/Toperlock/dmm_FANZA_LO_zh/releases/tag/Prerelease)
+2024-12-12 [已更新](https://github.com/Toperlock/dmm_FANZA_LO_zh/releases/tag/Prerelease)
+
+虎鲸新皮肤 花样滑冰 我啪的很快就买了
+
+一个人玩游戏好寂寞
 
 # 希望不要拿去倒卖谢谢
 
