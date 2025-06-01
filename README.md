@@ -1,8 +1,8 @@
 # last origin FANZA版汉化
 
-2025-05-15 [已更新](https://github.com/Toperlock/dmm_FANZA_LO_zh/releases/tag/Prerelease)
+2025-05-29 [已更新](https://github.com/Toperlock/dmm_FANZA_LO_zh/releases/tag/Prerelease)
 
-2025-5-29 版本更新文本很多，新的剧情内容不打算精修了，等端午精修技能、角色名、关卡名之类
+~~2025-5-29 版本更新文本很多，新的剧情内容不打算精修了，等端午精修技能、角色名、关卡名之类~~
 
 # 希望不要拿去倒卖谢谢
 
