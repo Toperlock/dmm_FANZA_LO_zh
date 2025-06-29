@@ -1,13 +1,8 @@
 # last origin FANZA版汉化
 
-2025-06-12 [已更新](https://github.com/Toperlock/dmm_FANZA_LO_zh/releases/tag/Prerelease)
+2025-06-26 [已更新](https://github.com/Toperlock/dmm_FANZA_LO_zh/releases/tag/Prerelease)
 
-~~2025-6-12 版本更新文本很多，新的剧情内容不打算精修了，等有空精修礼包、关卡名之类 （工作开始忙起来了）~~
-
-终于抽出来了 700 700 200 200 200
-
-![微信截图_20250601141600](https://github.com/user-attachments/assets/a06a8666-9f72-4fbd-9e50-975f63c90f6f)
-
+![20250629212338](https://github.com/user-attachments/assets/395028c2-7907-4d27-9797-aff5f4e3b46d)
 
 # 希望不要拿去倒卖谢谢
 
