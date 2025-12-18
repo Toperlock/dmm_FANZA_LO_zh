@@ -1,14 +1,12 @@
 # last origin FANZA版汉化
 
-2025-11-13 [已更新](https://github.com/Toperlock/dmm_FANZA_LO_zh/releases/tag/Prerelease)
+2025-12-11 [已更新](https://github.com/Toperlock/dmm_FANZA_LO_zh/releases/tag/Prerelease)
 
 汉化更新一般在周末上传
 
 ~~目前剧情除了官方汉化、我第一次汉化润色的「0基地」外其他大部分是机翻。如果想看精修的剧情请开issue，再做考虑~~（剧情汉化制作中~）
 
-<img width="1277" height="748" alt="2025-11-08_152143_005" src="https://github.com/user-attachments/assets/fa1f980a-6a12-457f-b83e-27b6fb3998e5" />
-
-艾芙妮尔建造不出来，花了罐头买她角色包很不甘心
+<img width="1275" height="745" alt="ScreenShot_2025-12-18_193104_169" src="https://github.com/user-attachments/assets/b4f5cd76-c6fc-406a-aaef-4620354b9e72" />
 
 # 希望不要拿去倒卖谢谢
 
