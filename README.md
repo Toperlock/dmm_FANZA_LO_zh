@@ -1,12 +1,12 @@
 # last origin FANZA版汉化
 
-2026-02-20 [已更新](https://github.com/Toperlock/dmm_FANZA_LO_zh/releases/tag/Prerelease)
+2026-06-11 [已更新](https://github.com/Toperlock/dmm_FANZA_LO_zh/releases/tag/Prerelease)
 
 汉化更新一般在周末上传
 
-~~目前剧情除了官方汉化、我第一次汉化润色的「0基地」外其他大部分是机翻。如果想看精修的剧情请开issue，再做考虑~~（剧情汉化制作中~）
+~~目前剧情除了官方汉化、我第一次汉化润色的「0基地」外其他大部分是机翻。如果想看精修的剧情请开issue，再做考虑（剧情汉化制作中）~~
 
-<img width="1277" height="748" alt="ScreenShot_2026-02-24_140414_712" src="https://github.com/user-attachments/assets/b395773a-69e2-4c82-afda-c1ac2dfdfcc8" />
+<img width="1280" height="752" alt="ScreenShot_2026-06-21_122835_018" src="https://github.com/user-attachments/assets/4e5f700e-302b-4644-941e-d0d65159201a" />
 
 # 希望不要拿去倒卖谢谢
 
@@ -18,6 +18,7 @@
 ~~家里养了一只猫，但是我吃住都在公司，老妈也是工作每周末才有时间回来，我妹去上大学，给猫弄了自动喂食器，饮水机，请了一个阿姨每天上门铲屎换水，每天在监控里看它孤零零的我好难受~~
 
 工作忙，累了就去洗脚，更新慢，issue会回
+
 
 来自：
 
