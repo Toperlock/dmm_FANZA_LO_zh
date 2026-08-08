@@ -1,12 +1,12 @@
 # last origin FANZA版汉化
 
-2026-07-23 [已更新](https://github.com/Toperlock/dmm_FANZA_LO_zh/releases/tag/Prerelease)
+2026-08-06 [已更新](https://github.com/Toperlock/dmm_FANZA_LO_zh/releases/tag/Prerelease)
 
 汉化更新一般在周末上传
 
 ~~目前剧情除了官方汉化、我第一次汉化润色的「0基地」外其他大部分是机翻。如果想看精修的剧情请开issue，再做考虑（剧情汉化制作中）~~
 
-<img width="1282" height="751" alt="ScreenShot_2026-07-27_135947_016" src="https://github.com/user-attachments/assets/020beee6-0c8b-41a8-bb6c-7f4707ede6ed" />
+<img width="1361" height="868" alt="ScreenShot_2026-08-08_153237_274" src="https://github.com/user-attachments/assets/c8920bab-8798-4c1d-8fce-060027c7eca6" />
 
 # 希望不要拿去倒卖谢谢
 
@@ -25,6 +25,7 @@
 https://www.gamekee.com/lo/164709.html
 
 https://www.gamekee.com/lo/165441.html
+
 
 官方汉化 + 机翻 + 精修 官方未汉化的内容
 
