@@ -29,8 +29,8 @@ https://www.gamekee.com/lo/165441.html
 
 官方汉化 + 机翻 + 精修 官方未汉化的内容
 
-![PixPin_2024-08-30_03-05-37](https://github.com/user-attachments/assets/1798b8fe-4af5-4c60-9665-70deba5680c1)
+# 赞赏码
 
-![PixPin_2024-08-30_03-06-29](https://github.com/user-attachments/assets/5c7a8d07-8131-4da5-a4ee-b2a7b8c87b4c)
-
-![PixPin_2024-10-19_16-57-00](https://github.com/user-attachments/assets/3032f1f5-e61a-4b2f-b080-365a2bdfdd8b)
+<div align="left">
+  <img src="https://github.com/user-attachments/assets/40ba89c9-bdf3-4492-9d1d-0c2d3dcbc05b" alt="20260908122858_3_43" width="30%" />
+</div>
