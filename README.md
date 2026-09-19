@@ -1,33 +1,18 @@
-# last origin FANZA版汉化
+# Last Origin FANZA版汉化
 
-2026-09-03[已更新](https://github.com/Toperlock/dmm_FANZA_LO_zh/releases/tag/Prerelease)
+2026-09-17[已更新](https://github.com/Toperlock/dmm_FANZA_LO_zh/releases/tag/Prerelease)
 
-汉化更新一般在周末上传
+汉化更新一般在周末上传。新增PC端汉化替换工具（2026-09-19）
 
-~~目前剧情除了官方汉化、我第一次汉化润色的「0基地」外其他大部分是机翻。如果想看精修的剧情请开issue，再做考虑（剧情汉化制作中）~~
-
-<img width="1359" height="866" alt="ScreenShot_2026-09-07_170454_244" src="https://github.com/user-attachments/assets/90fa4ef1-abb9-4c72-a235-d3451d27faf1" />
+<img width="1282" height="749" alt="ScreenShot_2026-09-19_140632_824" src="https://github.com/user-attachments/assets/5ad86bd7-18a8-4480-85ed-f55db6d335cd" />
 
 # 希望不要拿去倒卖谢谢
 
-~~一些碎碎念：工作压力好大，没赚到钱都不想回去过年，家里还催相亲，工作完熬夜看了好多动漫和漫画，心里总是空落落的。最近看了《碧蓝之海》漫画追到最新章，千纱对伊织的感情看的我好开心，但是漫画月更等待新一话好煎熬。
-好累好累好累~~
-
-~~LO游戏每天就上线收收菜，感觉我好对不起里面的角色，没有时间陪她们，好难受好难受~~
-
-~~家里养了一只猫，但是我吃住都在公司，老妈也是工作每周末才有时间回来，我妹去上大学，给猫弄了自动喂食器，饮水机，请了一个阿姨每天上门铲屎换水，每天在监控里看它孤零零的我好难受~~
-
-工作忙，累了就去洗脚，更新慢，issue会回
-
-
-来自：
+# 致谢
 
 https://www.gamekee.com/lo/164709.html
 
 https://www.gamekee.com/lo/165441.html
-
-
-官方汉化 + 机翻 + 精修 官方未汉化的内容
 
 # 赞赏码
 
